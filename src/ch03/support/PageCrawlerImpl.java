@@ -1,4 +1,4 @@
-package ch03;
+package ch03.support;
 
 public class PageCrawlerImpl implements PageCrawler {
   private final WikiPage context;

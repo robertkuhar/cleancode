@@ -1,5 +1,15 @@
 package ch03;
 
+import ch03.support.PageCrawlerImpl;
+import ch03.support.PageData;
+import ch03.support.PathParser;
+import ch03.support.SuiteResponder;
+import ch03.support.WikiPage;
+import ch03.support.WikiPagePath;
+
+/**
+ * Listing 3.1 from "Clean Code" by Robert Martin. 
+ */
 public class HtmlUtil {
   public static String testableHtml(PageData pageData, boolean includeSuiteSetup) throws Exception {
     WikiPage wikiPage = pageData.getWikiPage();
