@@ -8,9 +8,17 @@ import ch03.support.WikiPage;
 import ch03.support.WikiPagePath;
 
 /**
- * Listing 3.1 from "Clean Code" by Robert Martin. 
+ * Chapter 03: Functions from "Clean Code" by Robert Martin.
  */
 public class HtmlUtil {
+  /**
+   * Listing 3.1. Can you figure out what this does in under 3 minutes?
+   * 
+   * @param pageData
+   * @param includeSuiteSetup
+   * @return
+   * @throws Exception
+   */
   public static String testableHtml(PageData pageData, boolean includeSuiteSetup) throws Exception {
     WikiPage wikiPage = pageData.getWikiPage();
     StringBuffer buffer = new StringBuffer();
@@ -52,4 +60,28 @@ public class HtmlUtil {
     pageData.setContent(buffer.toString());
     return pageData.getHtml();
   }
+
+  /**
+   * Listing 3.3. Can you figure out what this does in under 3 minutes?
+   * 
+   * @param pageData
+   * @param isSuite
+   * @return
+   * @throws Exception
+   */
+  public static String renderPageWithSetupsAndTeardowns(PageData pageData, boolean isSuite)
+      throws Exception {
+    if (isTestPage(pageData)) {
+      includeSetupAndTeardownPages(pageData, isSuite);
+    }
+    return pageData.getHtml();
+  }
+
+  private static void includeSetupAndTeardownPages(PageData pageData, boolean isSuite) {
+  }
+
+  private static boolean isTestPage(PageData pageData) {
+    return pageData.hasAttribute("Test");
+  }
+
 }

@@ -9,7 +9,7 @@ import ch03.support.WikiPage;
 import ch03.support.WikiPagePath;
 
 /**
- * Listing 3.7 from "Clean Code" by Robert Martin. 
+ * Chapter 03:  Functions from "Clean Code" by Robert Martin.  Listing 3.7.
  */
 public class SetupTeardownIncluder {
   private PageData pageData;
