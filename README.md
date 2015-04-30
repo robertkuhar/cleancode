@@ -11,11 +11,11 @@ WingDing studies "Clean Code.  A Handbook of Agile Software Craftsmanship" by Ro
 |Apr 29|Ch03: Functions (22 pages)|George Smith|
 |May 13|Ch04: Comments (22 pages)|Doug|
 |May 13|Ch05: Formatting (18 pages)|Doug|
-|May 27|Ch06: Data Structures (10 pages)|Linus|
-|May 27|Ch07: Error Handling (10 pages)|Linus|
-|May 27|Ch08: Boundaries (8 pages)|Linus|
-|Jun 10|Ch09: Unit Tests (14 pages)|
-|Jun 10|Ch10: Classes (18 pages)|
+|May 27|Ch06: Data Structures (10 pages)||
+|May 27|Ch07: Error Handling (10 pages)||
+|May 27|Ch08: Boundaries (8 pages)||
+|Jun 10|Ch09: Unit Tests (14 pages)|Linus|
+|Jun 10|Ch10: Classes (18 pages)|Linus|
 |Jun 24|Ch11: Systems (18 pages)|
 |Jun 24|Ch12: Emergence (6 pages)|
 |Jul 08|summer break|
