@@ -16,11 +16,11 @@ WingDing studies "Clean Code.  A Handbook of Agile Software Craftsmanship" by Ro
 |May 27|Ch08: Boundaries (8 pages)|Stan|
 |Jun 10|Ch09: Unit Tests (14 pages)|Linus|
 |Jun 10|Ch10: Classes (18 pages)|Linus|
-|Jun 24|Ch11: Systems (18 pages)|
-|Jun 24|Ch12: Emergence (6 pages)|
+|Jun 24|summer break|
 |Jul 08|summer break|
 |Jul 22|summer break|
-|Aug 12|summer break|
+|Aug 12|Ch11: Systems (18 pages)|
+|Aug 12|Ch12: Emergence (6 pages)|
 |Aug 26|Ch13: Concurrency (16 pages)|
 |Aug 26|Ch14: Successive Refinement (58 pages)|
 |Sep 09|Ch14: Successive Refinement (58 pages)|
