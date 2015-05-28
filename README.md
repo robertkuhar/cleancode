@@ -27,5 +27,5 @@ WingDing studies "Clean Code.  A Handbook of Agile Software Craftsmanship" by Ro
 |Sep 09|Ch15: JUnit Internals (16 pages)||
 |Sep 23|Ch16: Refactoring SerialDate (18 pages)||
 |Sep 23|Ch17: Smells and Heuristics (32 pages)||
-|Oct 14|ApxA:  Concurrency II......... 317 (32 pages)||
+|Oct 14|ApxA:  Concurrency II......... 317 (32 pages)|Joe Bowbeer|
 |??|ApxB:  SerialDate............. 349 (60 pages)||
