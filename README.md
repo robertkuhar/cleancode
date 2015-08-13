@@ -19,12 +19,12 @@ WingDing studies "Clean Code.  A Handbook of Agile Software Craftsmanship" by Ro
 |Jun 24|summer break|
 |Jul 08|summer break|
 |Jul 22|summer break|
-|Aug 12|Ch11: Systems (18 pages)||
-|Aug 12|Ch12: Emergence (6 pages)||
+|Aug 12|Ch11: Systems (18 pages)|Bob|
+|Aug 12|Ch12: Emergence (6 pages)|Bob|
 |Aug 26|Ch13: Concurrency (16 pages)|Stewart|
 |Aug 26|Ch14: Successive Refinement (58 pages)|Stewart|
-|Sep 09|Ch14: Successive Refinement (58 pages)||
-|Sep 09|Ch15: JUnit Internals (16 pages)||
+|Sep 09|Ch14: Successive Refinement (58 pages)|Peter|
+|Sep 09|Ch15: JUnit Internals (16 pages)|Peter|
 |Sep 23|Ch16: Refactoring SerialDate (18 pages)||
 |Sep 23|Ch17: Smells and Heuristics (32 pages)||
 |Oct 14|ApxA:  Concurrency II......... 317 (32 pages)|Joe Bowbeer|
