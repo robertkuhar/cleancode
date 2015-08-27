@@ -7,7 +7,6 @@ public class BooleanArgumentMarshaler implements ArgumentMarshaler {
 
   @Override
   public void set(Iterator<String> currentArgument) throws ArgsException {
-    // FIXME: This can't be correct, why didn't we parse currentArgument?
     booleanValue = true;
   }
 

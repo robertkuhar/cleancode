@@ -1,6 +1,7 @@
 package ch14;
 
 import static ch14.ArgsException.ErrorCode.*;
+
 import java.util.*;
 
 public class Args {
@@ -106,5 +107,9 @@ public class Args {
 
   public String[] getStringArray(char arg) {
     return StringArrayArgumentMarshaler.getValue(marshalers.get(arg));
+  }
+
+  public int cardinality() {
+    return argsFound.size();
   }
 }
